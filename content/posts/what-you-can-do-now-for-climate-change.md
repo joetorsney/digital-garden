@@ -4,6 +4,8 @@ date: 2020-06-25T08:32:00+01:00
 description: "I'm thinking of writing a chain of posts about the climate. Before I do so, here is what you must do now."
 ---
 
+This is a book excerpt from [The Future We Choose by Christiana Figueres & Tom Rivett-Carnac.](https://globaloptimism.com/the-future-we-choose-book/)
+
 # Right now
 - Take a deep breath and decide that collectively we can do this, and that you will play your part. You will be a hopeful visionary for humanity through these dark days. From this moment, despair ends and tactics begin.
 
