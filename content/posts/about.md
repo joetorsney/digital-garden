@@ -40,6 +40,9 @@ If post A links to post B, B should 'know about it'. More specifically, at the b
 I like the idea of having a 'recently connected' list on the homepage displaying pieces that were recently linked to each other, [like Gordon Brander has.](http://gordonbrander.com/pattern/)
 ### 3. [Implement a change-log for posts using the github history.](https://gohugo.io/maintenance/)
 
+### 4. Implement an edit page feature that creates a new pull request on github for that post
+[Like James Wright has](https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio)
+
 [^1]: I think this idea is easier to see (feel?) with smaller programs because the static typing becomes almost the only thing that matters towards the 'formalness'. For example, consider the following programs that simple assign a constant: `x::Int; x = 10` and `const x = 10;`  Also, I'm skipping over the huge difference in the implementation of these languages (compiled vs interpreted), their paradigms (functional vs. object-oriented), and their vastly different use cases. My idea is quite fuzzy, but I hope you get what I'm trying to say.
 
 [^2]: A kind of powerset murphys law? "When there's more stuff that can go wrong, more stuff will go wrong."
