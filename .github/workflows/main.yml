@@ -32,6 +32,5 @@ jobs:
         # The repo name you want to clone and push to.
         target_repo: joetorsney/joetorsney.github.io
         # Any extra arguments to pass to Hugo.
-        hugo_args: # optional
         # If you are defining a custom domain name for your GitHub site, put that value in this variable.
         cname: joetorsney.com
