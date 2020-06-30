@@ -1,0 +1,16 @@
+theme = "joe"
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "JT"
+relativeURLs = true
+
+[params]
+    description = "Joes digital garden"
+
+[[menu.main]]
+  name = "about"
+  url = "/posts/about"
+
+[[menu.main]]
+  name = "posts"
+  url = "/posts"
