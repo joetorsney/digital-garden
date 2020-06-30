@@ -1,36 +1,25 @@
-# This is a basic workflow to help you get started with Actions
+name: Build and Deploy
 
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+    - name: Checkout master
+      uses: actions/checkout@v1
       with:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@v1.4.0
-      with:
-        # The version of hugo to use.
-        hugo_version: 0.57.2
-        # Your PAT to authorise the action to do things.
-        github_token: 2db624817955fd5ca3e361fb4559139cb39f9693
-        # The repo name you want to clone and push to.
-        target_repo: joetorsney/joetorsney.github.io
-        # Any extra arguments to pass to Hugo.
-        # If you are defining a custom domain name for your GitHub site, put that value in this variable.
-        cname: joetorsney.com
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.57.2
+        TARGET_REPO: joetorsney/joetorsney.github.io
+        TOKEN: ${{ secrets.TOKEN }}
+        CNAME: www.joetorsney.com
