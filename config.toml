@@ -1,5 +1,5 @@
 theme = "joe"
-baseURL = "http://example.org/"
+baseURL = "http://joetorsney.com/"
 languageCode = "en-gb"
 title = "JT"
 relativeURLs = true
