@@ -8,7 +8,7 @@ Most people say that as long as the animal has had a good life, and it's slaught
 
 Many animals are given an electric shock which is supposed to stun them before being hung and having their throats cut. However, the stunning can be ineffective, especially when performed by rushed and underpaid abattoir workers with little training. Thus, many animals are still conscious and die from blood loss. Another method of stunning is via a bolt gun, spring-loaded gun that is supposed to knock the animal unconscious, or a rifle. [These methods can also be ineffective](https://faunalytics.org/effective-captive-bolt-stunning/#:~:text=The%20idea%20is%20that%2C%20through,common%20way%20of%20stunning%20cows%3F&text=The%20study%20found%20that%20out,just%2084.1%25%20were%20adequately%20stunned.),  as rely on the farmer having perfect aim, which is difficult when the animal is scared, confused, and panicked. A single impact or shot can also be ineffective on larger animals (large pigs, sheep, cows), causing even more suffering.
 
-Therefore, when you buy meat we cannot guarantee that the animal has not suffered. And even if it didn't, we still cannot morally justify its death.
+Therefore, when we buy meat we cannot guarantee that the animal has not suffered. And even if it didn't, we still cannot morally justify its death.
 
 Humane slaughter is an oxymoron.
 
