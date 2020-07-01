@@ -69,10 +69,10 @@ Absolutely amazing to see NASA and SpaceX launch astronauts! I'll be [tuning in]
 Looking at using nextjs to rewrite our rails app from the software engineering module we finished this semester. Basically, we hated rails as a team, and it's too powerful for what could be a static site. It was also an absolute pain to deploy the rails app with ES6 modules, and the webpack configuration didn't work on the university's servers. I think NextJS is a good alternative, for now all pages will be statically rendered but we want the option to expand in the future. I'm also planning on using it for another project. I don't think I want to reveal either of these projects yet, but I'm super excited for them!
 
 # Reading, Watching, Listening
-I've not had much time this week, so fewer reccomendations.
+I've not had much time this week, so fewer recommendations.
 
 ## Books
-I'm currently about 35% through *Cloud Atlas* by *David Mitchell* on [reccomendation from Bill gates](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2020)
+I'm currently about 35% through *Cloud Atlas* by *David Mitchell* on [recommendation from Bill gates](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2020)
 
 ## Videos
 A beautiful animation of a section from John Greens *The Anthropocene Reviewed* podcast from the wonderful *Kurzgesagt*. [link](https://www.youtube.com/watch?v=YbgnlkJPga4)
