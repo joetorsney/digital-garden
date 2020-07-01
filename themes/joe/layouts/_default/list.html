@@ -4,7 +4,7 @@
         <h1>{{ .Title }}</h1>
         {{ .Content }}
         {{ range .Pages }}
-        <a href="{{ .Permalink }}" class="post-list-item" style="color:black">
+        <a href="{{ .Permalink | relURL}}" class="post-list-item" style="color:black">
             <div>
                 <h2>{{ .Title }}</h2>
                 <p>{{ .Date }}</p>
