@@ -1,16 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif&family=PT+Sans");
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 body {
-    font-family: 'PT Sans', sans-serif; 
+    font-family: Inter; 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     /* font-family: 'Ubuntu'; */
-    font-family: 'PT serif', sans-serif; 
+    font-family: Libre Baskerville;
+    font-style: italic;
     font-weight: 600;
 }
 
 p {
-    font-family: 'PT Sans', sans-serif; 
+    font-family: inter, serif; 
     font-size: 1.1rem;
     line-height: 1.7rem;
 }
